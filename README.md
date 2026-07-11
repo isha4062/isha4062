@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 I am currently working as an Associate Software Engineer at Databrain.<br>🤝 I am looking to collaborate on frontend and creative problem-solving projects<br>🆘 I am looking for new projects focusing on creating awesome UI using latest technologies<br>📚 I am currently learning backend with Python and AI integration.<br>💬 Ask me about Reactjs, javascript, and building UI with latest frontend technologies.<br>🎉 Fun Fact: I recently started playing PC games so suggestions are most welcome.
+💼 I am a React Frontend Developer with 3 years of experience.<br>🤝 I am looking to collaborate on frontend and creative problem-solving projects<br>🆘 I am looking for new projects focusing on creating awesome UI using latest technologies<br>📚 I am currently learning backend with Python and AI integration.<br>💬 Ask me about Reactjs, javascript, and building UI with latest frontend technologies.<br>🎉 Fun Fact: I recently started playing PC games so suggestions are most welcome.
 
 
 ## 🌐 Socials:
